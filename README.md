@@ -16,7 +16,7 @@
 
 ## Установка
 Установить проект можно с помощью команды
-'git clon https://github.com/draym1k/predprof/'
+'git clone https://github.com/draym1k/predprof/'
 
 ## Как пользоваться 
 Чтобы запустить файлы Python, воспользуйтесь командой 
